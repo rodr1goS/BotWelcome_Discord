@@ -1,4 +1,4 @@
-# Welcome Bot
+# Bot welcome discord
 
 Bot made in python for welcome channels.
 I had the help of 2 friends to test it, [yHaper](https://github.com/yHaper) and hiosaki.
@@ -27,6 +27,18 @@ If you want to change the colors, I'll leave a table with some examples below:
 | DarkViolet | (148,0,211) |
 | DeepPink | (255,20,147) |
 | DarkRed | (139,0,0) |
+
+## Requirements
+
+Paste the commands in your terminal
+
+```
+pip install discord.py
+```
+
+## Technologies
+
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 
 ___
 
