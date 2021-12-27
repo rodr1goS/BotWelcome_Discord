@@ -1,3 +1,3 @@
 # Welcome Bot
 
-<img src="image/botembed.gif">
+<img src="image/bot_embed.gif">
