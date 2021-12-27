@@ -1,1 +1,3 @@
-# BotWelcome_Discord
+# Welcome Bot
+
+<img src="image/botembed.gif">
