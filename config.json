@@ -1,0 +1,6 @@
+{
+	"Prefix":"Your bot prefix",
+	"Token":"Your bot token",
+	"Channel_welcome": your welcome channel id,
+	"Channel_rules": your rules channel id
+}
