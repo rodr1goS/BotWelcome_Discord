@@ -1,7 +1,7 @@
 # Bot welcome discord
 
 Bot made in python for welcome channels.
-I had the help of 2 friends to test it, [yHaper](https://github.com/yHaper) and hiosaki.
+I had the help of 2 friends to test it, [yHaper](https://github.com/yHaper) and [hiosaki](https://github.com/Senkyn).
 
 ## Overview
 
