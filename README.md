@@ -42,4 +42,3 @@ pip install discord.py
 
 ___
 
-_Made By me Rodrigo J. s3nsh1_
