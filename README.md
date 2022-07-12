@@ -5,7 +5,6 @@ I had the help of 2 friends to test it, [yHaper](https://github.com/yHaper) and 
 
 ## Overview
 
-<img src="image/bot_embed.gif">
 <img src="image/embed_bot.png">
 
 #
